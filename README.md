@@ -9,5 +9,5 @@
 python.in.miigaik@gmail.com
 
 ## Курс
-[Презентация](https://pythonmiigaik.github.io/coursework/course_presentation/course_presentation/)
+[Презентация](https://pythonmiigaik.github.io/coursework/course_presentation/course_presentation/) <br>
 [Занятие 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Seminar_08.10.18/Firstlesson.ipynb)
