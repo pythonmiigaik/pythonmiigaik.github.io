@@ -9,7 +9,7 @@ python.in.miigaik@gmail.com
 [Чат в телеграмме](https://t.me/joinchat/ByD92w_lZVwrJ6vQ9C26oA)
 
 
-## Курс
+## Материалы по курсу
 [Презентация](https://pythonmiigaik.github.io/coursework/course_presentation/course_presentation/)
 
 [Занятие 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Seminar_08.10.18/Firstlesson.ipynb)
