@@ -10,6 +10,6 @@ python.in.miigaik@gmail.com
 
 
 ## Материалы по курсу
-[Презентация](https://pythonmiigaik.github.io/coursework/course_presentation/course_presentation/)
+[Презентация](https://pythonmiigaik.github.io/coursework/course_presentation/inedx.html)
 
 [Занятие 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Seminar_08.10.18/Firstlesson.ipynb)
