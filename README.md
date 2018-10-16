@@ -1,4 +1,4 @@
-# Репозиторий курса "Введение в Python" [![Вернуться в репозиторий](https://pollytikhonova.github.io/coursework/GitHub-Mark-32px.png "Вернуться в репозиторий")](https://github.com/pythonmiigaik/pythonmiigaik.github.io/)
+#  [![Вернуться в репозиторий](https://pollytikhonova.github.io/coursework/GitHub-Mark-32px.png "Вернуться в репозиторий")](https://github.com/pythonmiigaik/pythonmiigaik.github.io/) Репозиторий курса "Введение в Python"
 python.in.miigaik@gmail.com
 
 ## Преподаватели
