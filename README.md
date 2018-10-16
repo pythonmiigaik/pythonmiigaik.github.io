@@ -14,5 +14,5 @@ python.in.miigaik@gmail.com
 #### Занятие №1
 [Семинар 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%201/Firstlesson.ipynb)
 #### Занятие №2
-[Лекция 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/Lesson_2_Filled.ipynb)
+[Лекция 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/Lesson_2_Filled.ipynb) <br>
 [Домашнее задание 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/HW2.ipynb)
