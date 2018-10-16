@@ -1,4 +1,4 @@
-# Репозиторий курса "Введение в Python"
+# Репозиторий курса "Введение в Python" [![Вернуться в репозиторий](https://pollytikhonova.github.io/coursework/GitHub-Mark-32px.png "Вернуться в репозиторий")](https://github.com/pythonmiigaik/pythonmiigaik.github.io/)
 python.in.miigaik@gmail.com
 
 ## Преподаватели
@@ -10,5 +10,9 @@ python.in.miigaik@gmail.com
 
 ### [Презентация курса](https://pythonmiigaik.github.io/course_presentation/index.html)
 
-### Занятие №1
+### Материалы по курсу
+#### Занятие №1
 [Семинар 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%201/Firstlesson.ipynb)
+#### Занятие №2
+[Лекция 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/Lesson_2_Filled.ipynb)
+[Домашнее задание 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/HW2.ipynb)
