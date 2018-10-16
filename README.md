@@ -11,7 +11,7 @@ python.in.miigaik@gmail.com
 ### [Презентация курса](https://pythonmiigaik.github.io/course_presentation/index.html)
 
 ### Материалы по курсу
-<h4 style='margin-bottom: 0px;'> Занятие №1 </h4>
+<h4 style='margin-bottom: 0px;'> Занятие №1 </h4><br>
 [Семинар 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%201/Firstlesson.ipynb)
 <h4 style='margin-bottom: 0px;'> Занятие №2 </h4>
 
