@@ -8,6 +8,7 @@ python.in.miigaik@gmail.com
 Группа 2 (пятницы): **Полина Тихонова**   <br>
 [Чат в телеграмме](https://t.me/joinchat/ByD92w_lZVwrJ6vQ9C26oA)
 
+___
 ### [Презентация курса](https://pythonmiigaik.github.io/course_presentation/index.html)
 
 ### Материалы по курсу
