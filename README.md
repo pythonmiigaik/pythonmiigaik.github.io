@@ -18,4 +18,5 @@ python.in.miigaik@gmail.com
 [Домашнее задание 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/HW2.ipynb)
 #### Занятие №3
 [Лекция 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Lecture%203.ipynb) <br>
+[Семинар 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Seminar%203.ipynb) <br>
 [Домашнее задание 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/HW3.ipynb)
