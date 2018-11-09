@@ -24,6 +24,6 @@ python.in.miigaik@gmail.com
 [Лекция 4](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%204/Lecture%204.ipynb) <br>
 [Семинар 4](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%204/Seminar%204.ipynb) <br>
 [Домашнее задание 4](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%204/HW%204.ipynb)
-#### Занятие №4
+#### Занятие №5
 [Лекция 5](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_5/Lecture%205.ipynb) <br>
 [Семинар 5](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%204/Seminar%205.ipynb)
