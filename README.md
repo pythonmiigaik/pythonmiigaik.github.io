@@ -28,6 +28,6 @@ python.in.miigaik@gmail.com
 [Лекция 5](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_5/Lecture%205.ipynb) <br>
 [Семинар 5](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_5/Seminar%205.ipynb)
 #### Занятие №6
-[Лекция 6](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%206/Lecture%206.ipynb) <br>
+[Лекция 6](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%206/Lesson%206.ipynb) <br>
 [Семинар 6](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%206/Seminar%206.ipynb) <br>
 [Домашнее задание 6](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%206/HW%206.ipynb)
