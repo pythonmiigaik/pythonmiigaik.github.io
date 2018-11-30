@@ -22,7 +22,8 @@ python.in.miigaik@gmail.com
 #### Занятие №3
 [Лекция 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Lecture%203.ipynb)
 <a href="https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Lecture%203.ipynb"><img src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/download-512.png" height="auto" width="20" title="Скачать файл"></a> <br>
-[Семинар 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Seminar%203.ipynb) <br>
+[Семинар 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Seminar%203.ipynb) 
+<a href="https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Seminar%203.ipynb"><img src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/down2-512.png" height="auto" width="16" title="Скачать файл"></a><br>
 [Домашнее задание 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/HW3.ipynb)
 #### Занятие №4
 [Лекция 4](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%204/Lecture%204.ipynb) <br>
