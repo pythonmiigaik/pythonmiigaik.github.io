@@ -15,7 +15,7 @@ python.in.miigaik@gmail.com
 <a href="https://pythonmiigaik.github.io/Lesson%201/Firstlesson.ipynb"><img src="https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/27/Vector-icons_10-512.png" height="auto" width="16" title="Скачать файл"></a>
 [Семинар 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%201/Firstlesson.ipynb)
 #### Занятие №2 
-<a href="https://pythonmiigaik.github.io/Lesson%202/Lesson_2_Filled.ipynb"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-free-sampler/128/circle-arrow-down-512.png" height="auto" width="24" title="Скачать файл"></a>
+<a href="https://pythonmiigaik.github.io/Lesson%202/Lesson_2_Filled.ipynb"><img src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/download-512.png" height="auto" width="24" title="Скачать файл"></a>
 [Лекция 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/Lesson_2_Filled.ipynb) <br>
 <a href="https://pythonmiigaik.github.io/Lesson%202/HW2.ipynb"><img src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/download-512.png" height="auto" width="20" title="Скачать файл"></a>
 [Домашнее задание 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/HW2.ipynb)
