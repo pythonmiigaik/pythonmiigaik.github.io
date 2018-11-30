@@ -12,12 +12,12 @@ python.in.miigaik@gmail.com
 
 ## Материалы по курсу
 #### Занятие №1
-<a href="https://pythonmiigaik.github.io/Lesson%201/Firstlesson.ipynb"><img src="https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/27/Vector-icons_10-512.png" align="left" height="auto" width="16" ></a>
+<a href="https://pythonmiigaik.github.io/Lesson%201/Firstlesson.ipynb"><img src="https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/27/Vector-icons_10-512.png" align="left" height="auto" width="16" padding-right="5px" ></a>
 [Семинар 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%201/Firstlesson.ipynb)
 #### Занятие №2 
-[![Скачать файл](https://cdn3.iconfinder.com/data/icons/sympletts-free-sampler/128/circle-arrow-down-512.png |width=24 "Скачать файл")](https://pythonmiigaik.github.io/Lesson%202/Lesson_2_Filled.ipynb)
+<a href="https://pythonmiigaik.github.io/Lesson%202/Lesson_2_Filled.ipynb"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-free-sampler/128/circle-arrow-down-512.png" align="left" height="auto" width="24" padding-right="5px" ></a>
 [Лекция 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/Lesson_2_Filled.ipynb) <br>
-[![Скачать файл](https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/download-512.png | width=20 "Скачать файл")](https://pythonmiigaik.github.io/Lesson%202/HW2.ipynb)
+<a href="https://pythonmiigaik.github.io/Lesson%202/HW2.ipynb"><img src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/download-512.png" align="left" height="auto" width="20" padding-right="5px" ></a>
 [Домашнее задание 2](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%202/HW2.ipynb)
 #### Занятие №3
 [Лекция 3](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_3/Lecture%203.ipynb) <br>
