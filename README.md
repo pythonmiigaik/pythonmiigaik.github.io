@@ -34,3 +34,5 @@ python.in.miigaik@gmail.com
 #### Занятие №7
 [Лекция 7](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_7/Lecture%207.ipynb)<br>
 [Семинар 7](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_7/Seminar_7.ipynb)
+#### Занятие №8
+[Семинар 8](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson_8/Seminar_8.ipynb)
