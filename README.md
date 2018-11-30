@@ -12,7 +12,7 @@ python.in.miigaik@gmail.com
 
 ## Материалы по курсу
 #### Занятие №1
-[![Скачать файл](https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/27/Vector-icons_10-512.png | width=16 "Скачать файл")](https://pythonmiigaik.github.io/Lesson%201/Firstlesson.ipynb)
+<a href="https://pythonmiigaik.github.io/Lesson%201/Firstlesson.ipynb"><img src="https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/27/Vector-icons_10-512.png" align="left" height="auto" width="16" ></a>
 [Семинар 1](https://github.com/pythonmiigaik/pythonmiigaik.github.io/blob/master/Lesson%201/Firstlesson.ipynb)
 #### Занятие №2 
 [![Скачать файл](https://cdn3.iconfinder.com/data/icons/sympletts-free-sampler/128/circle-arrow-down-512.png |width=24 "Скачать файл")](https://pythonmiigaik.github.io/Lesson%202/Lesson_2_Filled.ipynb)
